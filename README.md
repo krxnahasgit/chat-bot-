@@ -6,7 +6,7 @@ Designed as a beginner-friendly project to demonstrate GUI development, simple N
 ---
 
 ## ✨ Features
-- 🖼️ Elegant, responsive Tkinter interface (inspired by Grok-style dark mode)  
+- 🖼️ Elegant, responsive Tkinter interface 
 - 💬 Simple chatbot with rule-based responses  
 - 🎨 Styled chat window with alternating colors for User and Bot  
 - ⌨️ Supports both **Enter key** and **Send button** for messages  
